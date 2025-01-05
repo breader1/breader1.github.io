@@ -1,0 +1,37 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+.home-container {
+    display: flex;
+    gap: 2rem;
+  }
+  
+  .sidebar {
+    flex: 1;
+    max-width: 250px;
+  }
+  
+  .profile-photo {
+    max-width: auto; 
+    max-height: auto; 
+    width: 100%; 
+    height: auto; 
+    border-radius: 1em;
+    object-fit: cover; 
+    object-position: center; 
+  }
+  
+  
+  .contact-info {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+  }
+  
+  .contact-info a {
+    color: #007acc;
+    text-decoration: none;
+  }
+  
+  .content {
+    flex: 3;
+  }
+  
