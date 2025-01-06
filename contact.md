@@ -3,11 +3,15 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-You can reach me via:
-- **[Email](mailto:brett.reader@shaw.ca)**
-- **[LinkedIn](https://www.linkedin.com/in/breader1/)**
-- **[GitHub](https://github.com/breader1)**
+Feel free to reach out to me using any of the links below.
 
-Or call me at XXX-XXX-XXXX
+- **Email:** [brett.reader@shaw.ca](mailto:brett.reader@shaw.ca)
+- **LinkedIn:** [linkedin.com/in/breader1](https://linkedin.com/in/breader1)
+- **GitHub:** [github.com/breader1](https://github.com/breader1)
 
-This page is WIP, So check back soon.
+Or call me at **604-996-7192**.
+
+I’m always happy to connect and discuss new opportunities!
+
+---
+
