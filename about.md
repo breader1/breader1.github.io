@@ -5,7 +5,7 @@ permalink: /about/
 ---
 [📄 Download My Resume](/assets/Reader_Brett_Resume.pdf){:download="Reader_Brett_Resume.pdf"}
 
-Hi, I’m Brett, a recent graduate of the Computer Systems Technology program at BCIT. I’m passionate about developing software that solves real-world problems and brings innovative ideas to life. With a solid foundation in object-oriented programming and experience in full-stack web development, I’m eager to grow as a developer and contribute to meaningful projects.
+Hi, I’m Brett, a graduate of the Computer Systems Technology program at BCIT. I’m passionate about developing software that solves real-world problems and brings innovative ideas to life. With a solid foundation in object-oriented programming and experience in full-stack web development, I’m eager to grow as a developer and contribute to meaningful projects.
 
 I have experience working with SQL based databases, and I enjoy designing efficient and reliable data storage solutions. As a junior developer, I’m enthusiastic about exploring modern tools and technologies to create scalable and impactful software. I’m always eager to learn and improve my skills with every project I take on.
 
