@@ -16,11 +16,12 @@ When I’m not programming, I enjoy staying active by playing sports and going t
 Here are some skills I've gathered from my time at BCIT and making personal projects.
 
 - **Programming Languages:** .NET, Java, Python, JavaScript, PHP, SQL, HTML, CSS
-- **Frameworks & Libraries:** ASP.NET MVC, RESTful API
+- **Frameworks & Libraries:** ASP.NET MVC, RESTful API, React
 - **Databases:** SQL, SQLite, Snowflake
 - **Development Tools:** Visual Studio, VS Code, IntelliJ, PyCharm, PHP Storm, Eclipse, SSMS
-- **Cloud & DevOps:** Azure, Firebase, Git, TFS, GitHub
+- **Cloud & DevOps:** Azure, Firebase, Docker
 - **Collaboration & Design:** Trello, Figma
+- **Version Control:** Git, TFS
 
 
 

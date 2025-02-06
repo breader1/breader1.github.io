@@ -23,6 +23,12 @@ To solve this, I configured the AI model to run on my gaming PC and hosted it as
 Unfortunately we could only host the client and API until the end of the semester because it was costing too much, so the application is no longer live. However, you can [check out the GitHub repository here](https://github.com/breader1/COMP4537_Moodzic)!
 
 ---
+#### **Dynamite Goaltending**
+This is a personal project I'm currently building for a friend who is a goaltending coach. The project is a static website built using React and TypeScript, and it will serve as a platform for my friend to share his coaching philosophy, services, and contact information with potential clients. I'm also integrating a scheduling system to allow clients to book appointments directly through the site, which will help streamline the booking process and improve the overall user experience.
+
+It's currently in development, but once it's finished I'll host it and provide a link to it here. Be sure to check back soon!
+
+---
 
 More note worthy projects to come - Stay Tuned!
 
