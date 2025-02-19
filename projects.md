@@ -23,10 +23,14 @@ To solve this, I configured the AI model to run on my gaming PC and hosted it as
 Unfortunately we could only host the client and API until the end of the semester because it was costing too much, so the application is no longer live. However, you can [check out the GitHub repository here](https://github.com/breader1/COMP4537_Moodzic)!
 
 ---
-#### **Dynamite Goaltending**
-This is a personal project I'm currently building for a friend who is a goaltending coach. The project is a static website built using React and TypeScript, and it will serve as a platform for my friend to share his coaching philosophy, services, and contact information with potential clients. I'm also integrating a scheduling system to allow clients to book appointments directly through the site, which will help streamline the booking process and improve the overall user experience.
+#### **[Dynamite Goaltending](https://dynamitegoaltending.com/)**
+This is a personal project I’m building for a friend who is a goaltending coach. The site is a **static website built with React and TypeScript**, serving as a platform for him to showcase his coaching philosophy, services, and contact details for potential clients. I’m also integrating a **merchandising page** where clients can buy hats, shirts, and other branded items—though he doesn’t have merch just yet, so that’ll be added in the future.
 
-It's currently in development, but once it's finished I'll host it and provide a link to it here. Be sure to check back soon!
+I took on this project solo, partly as an opportunity to **deepen my experience with React and TypeScript**. Since I didn’t get as much hands-on time with them in school, I had a bit of a **learning curve with hooks and state management**, but it’s been a great way to sharpen my skills.
+
+One challenge I ran into was **keeping data consistent across the site**. Early on, I noticed I had repeated data scattered throughout different components, which meant updating the same content in multiple places. I knew if I didn’t clean that up, things would **spiral out of control fast**. To fix this, I refactored the code by **storing shared data in constants** and importing them where needed. This made the site **way easier to maintain**, ensured **data consistency**, and allowed components to dynamically render content whenever updates were made. Super cool stuff!
+
+If you're curious, [check out the GitHub repository!](https://github.com/breader1/dynamite-goaltending-website)
 
 ---
 
