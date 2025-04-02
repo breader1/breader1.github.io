@@ -12,7 +12,7 @@ export default function Home() {
       <div className="fixed inset-0 z-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900/20 via-black to-black"></div>
 
       {/* Grid lines overlay */}
-      <div className="fixed inset-0 z-0 bg-[url('/placeholder.svg?height=1080&width=1920')] bg-center opacity-5"></div>
+      <div className="fixed inset-0 z-0 bg-[url('./assets/images/background.png')] bg-center opacity-5"></div>
 
       <div className="relative z-10">
         {/* Header/Navigation */}
