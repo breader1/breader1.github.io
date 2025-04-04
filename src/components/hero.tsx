@@ -12,7 +12,7 @@ const hero = () => {
           <span className="animate-blink ml-1">_</span>
         </h1>
         <h2 className="text-2xl md:text-4xl font-semibold mb-6 text-gray-300">
-          Junior Software Developer and Gamer
+          Junior Software Developer
         </h2>
         <p className="text-lg md:text-xl text-gray-400 mb-8">
           I like to learn new things and build cool stuff.
