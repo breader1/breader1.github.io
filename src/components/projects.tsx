@@ -116,7 +116,7 @@ const projects = () => {
           <Card className="bg-gray-900/50 border-purple-900/50 backdrop-blur-sm overflow-hidden flex flex-col">
             <div className="relative h-48 w-full">
               <Image
-                src="/images/dynamite.png"
+                src="/images/Dynamite.png"
                 alt="Project 2"
                 fill
                 className="object-cover"
