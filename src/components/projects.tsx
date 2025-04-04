@@ -38,7 +38,7 @@ const projects = () => {
             <CardHeader>
               <CardTitle>Moodzic - AI powered Text to Audio</CardTitle>
               <CardDescription className="text-gray-400">
-                A full-stack application that allows users to convert text to to
+                A full-stack application that allows users to convert text to
                 a short audio clip.
                 <br />
                 <br />
