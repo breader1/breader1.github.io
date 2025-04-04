@@ -27,18 +27,17 @@ const about = () => {
           </div>
           <div>
             <p className="text-lg text-gray-300 mb-6">
-              I'm a dev who likes to build cool stuff. Gaming has always been my
-              jam, and now I get to combine that passion with code. Think of it
-              like a skill tree - every project is a chance to level up and
-              unlock new abilities. Always down to learn something new and
-              create awesome things.
+              I’m a developer who enjoys building meaningful, fun, and useful
+              projects. Games have always been a big part of my life, and now I
+              get to bring that same creativity and curiosity into my code.
+              Every project is a chance to grow, improve, and try something new.
             </p>
             <p className="text-lg text-gray-300 mb-6">
-              Full-stack development is my main quest, but I love diving into
-              side quests with new tech. There's nothing better than picking up
-              new skills and watching a project evolve from first line of code
-              to final deploy. The tech world is like an open-world game -
-              always something new to discover.
+              Full-stack development is where I spend most of my time, but I
+              like exploring new tools and tech along the way. I enjoy the
+              process of taking an idea from scratch and turning it into
+              something real. The tech world moves fast, and I’m always looking
+              forward to what I’ll learn next.
             </p>
             <div className="flex gap-4">
               <Link
