@@ -16,28 +16,29 @@ const about = () => {
           <div>
             <div className="relative w-full aspect-square max-w-md mx-auto md:mx-0 overflow-hidden rounded-lg border-2 border-purple-500/50">
               <Image
-                src="/placeholder.svg?height=400&width=400"
+                src="/images/BCIT-138.jpg"
                 alt="Brett"
                 fill
-                className="object-cover"
+                className="object-cover object-top"
+                unoptimized
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-purple-900/70 to-transparent"></div>
+              <div className="absolute inset-0 bg-gradient-to-t from-purple-900/50 to-transparent"></div>
             </div>
           </div>
           <div>
             <p className="text-lg text-gray-300 mb-6">
-              I'm a passionate software developer with a background in computer
-              science and a lifelong love for video games. This intersection of
-              interests has shaped my approach to development—I create
-              applications that are not only functional but also engaging and
-              intuitive.
+              I'm a dev who likes to build cool stuff. Gaming has always been my
+              jam, and now I get to combine that passion with code. Think of it
+              like a skill tree - every project is a chance to level up and
+              unlock new abilities. Always down to learn something new and
+              create awesome things.
             </p>
             <p className="text-lg text-gray-300 mb-6">
-              With 5+ years of experience building web and mobile applications,
-              I specialize in creating responsive, performant solutions that
-              solve real problems. When I'm not coding, you'll find me gaming,
-              contributing to open-source projects, or exploring new
-              technologies.
+              Full-stack development is my main quest, but I love diving into
+              side quests with new tech. There's nothing better than picking up
+              new skills and watching a project evolve from first line of code
+              to final deploy. The tech world is like an open-world game -
+              always something new to discover.
             </p>
             <div className="flex gap-4">
               <Link
@@ -54,7 +55,7 @@ const about = () => {
                 </Button>
               </Link>
               <Link
-                href="https://linkedin.com/breader1"
+                href="https://www.linkedin.com/in/breader1/"
                 target="_blank"
                 rel="noopener noreferrer"
               >

@@ -1,3 +1,4 @@
+"use client";
 import { Gamepad2 } from "lucide-react";
 import Link from "next/link";
 import React from "react";
@@ -42,8 +43,11 @@ const nav = () => {
         <Button
           variant="outline"
           className="border-purple-500 text-purple-500 hover:bg-purple-500/10"
+          asChild
         >
-          Resume
+          <a href="/resume/Reader_Brett_Resume.pdf" download>
+            Resume
+          </a>
         </Button>
       </div>
     </header>

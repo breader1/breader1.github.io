@@ -26,7 +26,7 @@ const hero = () => {
             variant="outline"
             className="border-purple-500 text-purple-500 hover:bg-purple-500/10"
           >
-            Contact Me
+            <a href="#contact">Contact Me</a>
           </Button>
         </div>
       </div>

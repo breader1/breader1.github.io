@@ -13,15 +13,15 @@ const Footer = () => {
           <div className="flex items-center gap-2 mb-4 md:mb-0">
             <Gamepad2 className="h-5 w-5 text-purple-500" />
             <span className="font-bold">
-              Brett<span className="text-purple-500">Dev</span>
+              Brett<span className="text-purple-500">Reader</span>
             </span>
           </div>
           <div className="text-gray-400 text-sm">
-            © {new Date().getFullYear()} Brett. All rights reserved.
+            © {new Date().getFullYear()} Brett Reader. All rights reserved.
           </div>
           <div className="flex gap-4 mt-4 md:mt-0">
             <Link
-              href="https://github.com"
+              href="https://github.com/breader1"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -34,7 +34,7 @@ const Footer = () => {
               </Button>
             </Link>
             <Link
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/breader1/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -46,7 +46,7 @@ const Footer = () => {
                 <Linkedin className="h-5 w-5" />
               </Button>
             </Link>
-            <Link href="mailto:contact@brettdev.com">
+            <Link href="mailto:brett.reader@shaw.ca">
               <Button
                 variant="ghost"
                 size="icon"
